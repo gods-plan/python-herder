@@ -12,10 +12,10 @@ configobj==5.0.6          # via anymarkup
 idna==2.6                 # via requests
 json5==0.6.0              # via anymarkup
 python-dateutil==2.7.2
-pyyaml==3.12              # via anymarkup
-requests==2.18.4
+pyyaml==5.4              # via anymarkup
+requests==2.20
 six==1.11.0               # via anymarkup-core, configobj, python-dateutil
 toml==0.9.4               # via anymarkup
-urllib3==1.22             # via requests
+urllib3==1.26.5             # via requests
 xmltodict==0.11.0         # via anymarkup
 
