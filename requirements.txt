@@ -6,7 +6,7 @@
 #
 anymarkup-core==0.7.1     # via anymarkup
 anymarkup==0.7.0
-certifi==2018.4.16        # via requests
+certifi==2023.7.22        # via requests
 chardet==3.0.4            # via requests
 configobj==5.0.6          # via anymarkup
 idna==2.6                 # via requests
