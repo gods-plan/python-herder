@@ -9,7 +9,7 @@ anymarkup==0.7.0
 certifi==2018.4.16        # via requests
 chardet==3.0.4            # via requests
 configobj==5.0.6          # via anymarkup
-idna==2.6                 # via requests
+idna==3.7                 # via requests
 json5==0.6.0              # via anymarkup
 python-dateutil==2.7.2
 pyyaml==3.12              # via anymarkup
